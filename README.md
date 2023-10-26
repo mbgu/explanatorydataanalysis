@@ -1,4 +1,4 @@
-# explanatorydataanalysis
+# Explanatory Data Analysis
 Explanatory data analysis
 
 
